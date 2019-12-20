@@ -1,0 +1,6 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+
+.homeimg{
+    background-image: url('https://i.pinimg.com/564x/5c/9f/3e/5c9f3e5f60251f8280130c5e50230401.jpg');
+    height: 40em;
+}
