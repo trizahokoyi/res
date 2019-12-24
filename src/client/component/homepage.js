@@ -6,7 +6,7 @@ class Home extends React.Component {
       <div className="container">
         <div className="row">
           <div className="col-sm">
-            Left
+            
               </div>
           <div className="col-sm homeimg">
             Center
