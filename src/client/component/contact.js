@@ -15,6 +15,7 @@ class Contact extends React.Component {
                                     <p class="m-0">Website: www.classicwears.co.ke</p>
                                 </div>
                             </div>
+                            
                             <div class="card-body p-3">
 
                                 <div class="form-group">

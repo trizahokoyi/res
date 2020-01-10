@@ -36,7 +36,7 @@ class SignUp extends React.Component {
 			    			<div className="row">
 			    				<div className="col-xs-6 col-sm-6 col-md-6">
 			    					<div className="form-group">
-			    						<input type="password" name="password" id="password" className="form-control input-sm" placeholder="Password"/>
+			    						<input type="password" name="password" id="password" className="form-control input-sm" placeholder="Enter Password"/>
 			    					</div>
 			    				</div>
 			    				<div className="col-xs-6 col-sm-6 col-md-6">
@@ -45,6 +45,11 @@ class SignUp extends React.Component {
 			    					</div>
 			    				</div>
 			    			</div>
+							<div className="col-xs-6 col-sm-6 col-md-6">
+			    					<div className="form-group">
+			    						<input type="already have account" name="Already have an account? signup_here" id="signup_here" className="form-control input-sm" placeholder="Already have an account? Sign up here"/>
+			    					</div>
+			    				</div>
 			    			
 			    			<input type="submit" value="Register" className="btn btn-info btn-block"/>
 			    		

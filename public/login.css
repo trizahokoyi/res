@@ -1,7 +1,17 @@
 .login_page {
-    background-color: #a1ccf0;
+    background-image: url("https://i.pinimg.com/564x/6c/d5/1e/6cd51e0e28c7264fdf4ae464986aeab9.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
+    width: 500px;
+}
+
+.signup_page {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 450px;
 }

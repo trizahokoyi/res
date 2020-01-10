@@ -1,13 +1,16 @@
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
 
 .homeimg{
-    background-image: url('https://i.pinimg.com/564x/5c/9f/3e/5c9f3e5f60251f8280130c5e50230401.jpg');
+    background-image: url('https://i.pinimg.com/564x/0a/dc/ea/0adcea0adb853833d9c2dc57d485a6a7.jpg');
     height: 40em;
+    opacity: 0.3;
 }
 
 body{
-    background-color: #525252;
+    background-color: rgb(150, 152, 155);
+    color: black;
 }
+
 .centered-form{
 	margin-top: 60px;
 }
@@ -23,7 +26,13 @@ body{
 .about-title span {color: rgb(11, 12, 12); font-size:45px;font-weight:700;}
 .about-title h3 {color: #535353; font-size:23px;margin-bottom:24px;}
 .about-title p {color: #7a7a7a;line-height: 1.8;margin: 0 0 15px;}
-.about-paddingB {padding-bottom: 12px;}
+.about-paddingB {
+    width: 565px;
+    padding-bottom: 12px;
+    color: black;
+    background-color: cornflowerblue;
+
+}
 .about-img {padding-left: 57px;}
 
 /* Social Icons */
@@ -34,3 +43,5 @@ body{
  #social-tw:hover {color: #4099FF;transition:all .001s;}
  #social-gp:hover {color: #d34836;transition:all .001s;}
  #social-em:hover {color: #f39c12;transition:all .001s;}
+
+ 
